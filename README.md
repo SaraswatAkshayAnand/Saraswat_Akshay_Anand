@@ -1,1 +1,4 @@
-# Saraswat_Akshay_Anand
+- 👋 Hi, I’m Saraswat Akshay Anand
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently pursuing my Bachelors Degree in Computer Science
+- 📫 Connect with me - www.linkedin.com/in/akshay-saraswat-3a2ab1260
